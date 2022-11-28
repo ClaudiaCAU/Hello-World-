@@ -19,7 +19,7 @@
         90,0000000001,
     ],
     "TEMPORAL_EXTENT": [
-        "2021-08-01T00:00:00Z",
+        "temporal resolution: 2005-2100 (in 5year timesteps)",
         ""
     ],
     "LICENSE": "Creative Commons Attribution 4.0 International",
