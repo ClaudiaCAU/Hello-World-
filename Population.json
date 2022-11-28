@@ -1,0 +1,41 @@
+{
+    "TITLE": "Gridded population projections for the coastal zone under the Shared Socioeconomic Pathways",
+    "TITLE_ABBREVIATION": "POP_SSPs",
+    "DESCRIPTION": "The spatially-explicit population projections for the coastal zone include a SSP narrative and gridded population projection for each coastal SSP. The produced grids have a spatial resolution of 30*30 arcsecond (approx. 1 km at the equator) and represent the population count per cell. They have been produced with a specific focus on the coastal zone in order to enable coast-related IAV assessments. This should be kept in mind when analysing the population projections outside the LECZ. A detailed description of the methods is given in the reference below.",
+    "SHORT_DESCRIPTION": "Merkens et al. 2016 regionalised the population projection of the SSP-Database. The produced grids have a spatial resolution of 30*30 arcsecond (approx. 1 km at the equator) and represent the population count per cell. A detailed description of the methods is given in the reference below.",
+    "INSTITUTION": "Geographisches Institut, Kiel University",
+    "PROVIDERS": {
+        "name": "Geographisches Institut, Kiel University",
+        "url": "www.uni-kiel.de",
+        "roles": "provider",
+        "description": ""
+    },
+    "HISTORY": "",
+    "MEDIA_TYPE": "TIFF",
+    "SPATIAL_EXTENT": [
+        -180,
+        -89,9999999999,
+        180,
+        90,0000000001
+    ],
+    "TEMPORAL_EXTENT": [
+        "2021-08-01T00:00:00Z",
+        ""
+    ],
+    "LICENSE": "Creative Commons Attribution 4.0 International",
+    "AUTHOR": "Jan-Ludolf Merkens, Lena Reimann, Jochen Hinkel, Athanasios T. Vafeidis",
+    "KEYWORDS": [
+        "Shared Socioeconomic Pathways",
+        "population",
+    ],
+    "TAGS": [
+        "Shared Socioeconomic Pathways",
+        "population",
+    ],
+    "CITATION": "Jan-Ludolf Merkens, Lena Reimann, Jochen Hinkel, Athanasios T. Vafeidis (2016). Gridded population projections for the coastal zone under the Shared Socioeconomic Pathways. Global and Planetary Change, 145, 57-66.",
+    "DOI": "https://doi.org/10.1016/j.gloplacha.2016.08.009",
+    "LONG_NAME": "Gridded population projections for the coastal zone",
+    "UNITS": "",
+    "COMMENT": "",
+    "CRS": "D_WGS_1984"
+}
